@@ -6,7 +6,7 @@
 
 **Plataforma digital que conecta cuidadores profesionales con familias que necesitan atención especializada**
 
-*Startup MediTec · Universidad Peruana de Ciencias Aplicadas · SI385 · 2025-01*
+*Startup MediTec · Universidad Peruana de Ciencias Aplicadas · 1ASI0705-2610 9232 · 2026-01*
 
 ---
 
