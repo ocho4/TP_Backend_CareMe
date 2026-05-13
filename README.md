@@ -478,6 +478,6 @@ http://localhost:8080/v3/api-docs
 
 <div align="center">
 
-*MediTec © 2025 — Todos los derechos reservados*
+*MediTec © 2026 — Todos los derechos reservados*
 
 </div>
