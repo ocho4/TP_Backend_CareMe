@@ -1,4 +1,4 @@
-package com.upc.tp_careme.config;
+package com.upc.fc.tp_careme.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

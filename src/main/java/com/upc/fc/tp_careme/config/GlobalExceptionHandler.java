@@ -1,4 +1,4 @@
-package com.upc.tp_careme.config;
+package com.upc.fc.tp_careme.config;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
