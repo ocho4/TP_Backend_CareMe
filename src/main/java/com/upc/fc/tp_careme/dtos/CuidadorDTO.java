@@ -1,4 +1,4 @@
-package com.upc.tp_careme.dtos;
+package com.upc.fc.tp_careme.dtos;
 
 import lombok.*;
 import java.util.List;
